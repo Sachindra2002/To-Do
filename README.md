@@ -2,4 +2,4 @@
 
 #1 Tutorial
 
-To-Do App built with React-Native
+Simple To-Do App built with React-Native
